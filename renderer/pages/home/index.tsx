@@ -13,7 +13,7 @@ export default function HomePage() {
   return (
     <React.Fragment>
       <Head>
-        <title>Home - Nextron (basic-lang-typescript)</title>
+        <title>Electron startup template</title>
       </Head>
       <div>
         <p>
